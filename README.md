@@ -60,9 +60,9 @@ Things you will need:
 
 
 ## 🔧 Connecting The Hardware <a name = "hardware"></a>
-
+![](omega.JPG)
 Will update soon  
-DISCLAIMER: Any changes in your electric distribution board is really dangerous !!! do it only of you know what you are doing. Use at your own risk.
+DISCLAIMER: Any changes in your electric distribution board is really dangerous !!! do it only of you know what you are doing. Use at your own risk.  
 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
