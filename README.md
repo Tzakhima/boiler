@@ -28,7 +28,7 @@
 
 A small home project to turn the boiler on or off remotely (Web or Google Assistant).   
 I could buy a Switcher (https://switcher.co.il/) but it will be too easy...   
-Disclaimer - I am not a from-end or back-end developer, it is only a hoby of mine :-)   
+Disclaimer - I am not a front-end or back-end developer, it is only a hoby of mine :-)   
 Any improvement suggestions are welcome
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
