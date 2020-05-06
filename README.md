@@ -3,8 +3,14 @@
  <img width=600px height=300px src="example.gif" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Boiler (or any other electrical device) Remote Control</h3>
+<h3 align="center">Boiler (or any other electrical device) Remote Control</h3>  
 
+<div align="center">  
+
+[![License](https://img.shields.io/badge/license-MIT-green)](/LICENSE) 
+[![License](https://img.shields.io/badge/license-Apache-blue)](/LICENSE)  
+
+</div>  
 
 ---
 
